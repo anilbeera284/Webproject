@@ -1,8 +1,8 @@
 # [WEB PROJECT]
 
-I came across a random webpage on the internet that caught my eye — I really liked the design and flow. So, I decided to recreate it entirely on my own using **HTML**, **CSS**, and **JavaScript**.
+I came across a random webpage on the internet that caught my eye — I really liked the design and flow. So, I decided to recreate it entirely on my own using **HTML**, **CSS** and **JavaScript**.
 
-Everything you see here is built from scratch, based on that inspiration — no templates or copied code. Just observed, understood, and developed my own version.
+Everything you see here is built from scratch based on that inspiration — no templates or copied code. Just observed, understood and developed my own version.
 
 ## 🔧 What’s Inside
 
