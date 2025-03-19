@@ -6,10 +6,10 @@ Everything you see here is built from scratch based on that inspiration — no t
 
 ## 🔧 What’s Inside
 
-- **index.html** – Page structure
-- **style.css** – All custom styles
+- **home.html** – Page structure
+- **home.css** – All custom styles
 - **script.js** – Adds interactivity
-- **/images** – Visual elements used in the page
+- **images**    – Visual elements used in the page
 
 ## ⚙️ Tech Used
 
@@ -20,7 +20,7 @@ Everything you see here is built from scratch based on that inspiration — no t
 ## 💻 How to Run
 
 1. Download or clone the repo.
-2. Open `index.html` in any browser.
+2. Open `home.html` in any browser.
 3. That’s it — explore the design and functionality.
 
 
