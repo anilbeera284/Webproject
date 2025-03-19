@@ -20,7 +20,7 @@ Everything you see here is built from scratch based on that inspiration — no t
 ## 💻 How to Run
 
 1. Download or clone the repo.
-2. Open `home.html` in any browser.
+2. Open `(https://voluble-cheesecake-0ad964.netlify.app/)` in any browser.
 3. That’s it — explore the design and functionality.
 
 
